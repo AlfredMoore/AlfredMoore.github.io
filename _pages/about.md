@@ -20,10 +20,10 @@ Tried many fields of knowledge before realizing my true interest.
 
 The AI and Robotics are exactly what I want, establishing math model to solve problems.
 
-Now I am seeking for intern / reseaches in Robotics and AI for this summer, and I will cherish every opportunity. 
+Now I am seeking for intern / reseach opportunities in Robotics and AI for this summer. 
 ------
 
-Hope one day I can add the Publishments navigator into this website and turly make it a academic personal page. 
+<!-- Hope one day I can add the Publishments navigator into this website and turly make it a academic personal page.  -->
 
 <!-- A data-driven personal website
 ======

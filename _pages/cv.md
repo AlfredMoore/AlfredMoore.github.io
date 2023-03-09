@@ -49,6 +49,7 @@ Skills
 
 Research & Project
 ======
+
 Lidar and Visual ORB Fusion	
 ------
   * ROB 530 Course Project	–In Progress
