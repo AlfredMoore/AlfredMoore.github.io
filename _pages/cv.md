@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download paper here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
+
 Education
 ======
 * B.S. in Control Engineering, Dalian University of Technology, 2018
@@ -18,7 +20,7 @@ Education
 Work experience
 ======
 * Summer 2021: Intern
-  * ABB
+  * ABB 
   * Duties included: 
     * Involved in the electrical high voltage power system design of robots.
     * Control the high voltage power, achieving stable performance.
