@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
+[Download CV here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
 
 Education
 ======
