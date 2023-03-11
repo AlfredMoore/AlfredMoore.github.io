@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
-
 Education
 ======
 * B.S. in Control Engineering, Dalian University of Technology, 2018
@@ -101,6 +99,8 @@ Circuit Design by Verilog Programming of Fpga
   *	Utilized  Quartus II and Verilog to design a multifunctional electronic clock on the DE2 circuit board
   *	The clock was given the functions of time display, hourly chime, time calibration, alarm, etc.
 
+[Download CV_Robotics here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
+[Download CV_DataScience here](http://alfredmoore.github.io/files/CV_MoXu_ds.pdf)
 
 <!-- Publications
 ======
