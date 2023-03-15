@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Control Engineering, Dalian University of Technology, 2018
-* M.S. in EECS, University of Michigan, 2022
+* M.S. in EECS, University of Michigan, 2024(expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
