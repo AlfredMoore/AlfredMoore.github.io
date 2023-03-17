@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV_Robotics here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
+
+[Download CV_DataScience here](http://alfredmoore.github.io/files/CV_MoXu_ds.pdf)
+
 Education
 ======
 * B.S. in Control Engineering, Dalian University of Technology, 2018
@@ -83,7 +87,8 @@ Processor Design Based on R10000 Architecture
 ------
   * EECS470 Course Project
   *	Development on Ubuntu, bash and SystemVerilog, group cooperation through GIT remote repository
-  *	Design a R10K architecture processor with RISCV containing modules like ROB, RS, pipeline and so on
+  *	Design a R10K architecture processor (simplified Intel Pentium 4 Processor) with RISCV.
+  * The prosessor contains modules like ROB, RS, pipeline and so on
   *	Additional functions including 2-width superscalar, branch prediction, victim data cache and software debugger
 
 Mathematical Contest in Modeling Held by COMAP
@@ -99,8 +104,6 @@ Circuit Design by Verilog Programming of Fpga
   *	Utilized  Quartus II and Verilog to design a multifunctional electronic clock on the DE2 circuit board
   *	The clock was given the functions of time display, hourly chime, time calibration, alarm, etc.
 
-[Download CV_Robotics here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
-[Download CV_DataScience here](http://alfredmoore.github.io/files/CV_MoXu_ds.pdf)
 
 <!-- Publications
 ======
