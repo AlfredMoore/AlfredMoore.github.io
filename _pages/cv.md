@@ -54,12 +54,19 @@ Skills
 Research & Project
 ======
 
-Lidar and Visual ORB Fusion	
-------
-  * ROB 530 Course Project	–In Progress
-  * Utilize ORB-SLAM3 and OpenCV to detect and determine objects, and Lidar SLAM to convert 3d points cloud into a map of distinctive features from the dataset of NCLT.
-  * Use ORB-SLAM3 and LiDAR-based SLAM together as a form of error checking by having each feed back into the other, and take the average of ORB and Lidar as the second methods.
-  * Compare the performance of two Fusion methods with the ORB-SLAM3 and Lidar-based SLAM systems.
+Reinforcement Learning Control of Amphibious Quadruped Robot
+-----
+  * Intern, I4FSI Lab. April 2023 – Present
+  * Designed and 3D-printed the swimming structure of a Amphibious quadruped robot based on Stanford Pupper.
+  * Utilized Raspberry Pi to control the robot to stand, hop, trot and swim through inverse kinematics.
+  * Improved the control strategy with the deep RL algorithm based on Twin Delayed DDPG(TD3).
+
+Lidar and Visual SLAM Loosely-Coupled Fusion
+-----
+  * Mobile Robotics Course Project Jan 2023 - April 2023
+  * Utilized ORB-SLAM3 to detect, extract and compare ORB features from images and calculated rotation and translation information with the optimization of loop closure detection.
+  * Convert the 3D points cloud into rotation and translation matrix by LITAMIN2 LiDAR SLAM.
+  * Loosely coupled visual and LiDAR SLAM by checking bad data and replacing it with good data.
 
 Network Proxy Server Management System
 ------	
