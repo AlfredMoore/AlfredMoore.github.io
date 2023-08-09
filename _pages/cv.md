@@ -41,6 +41,8 @@ Skills
   * Pytorch
   * matlibplot
   * scikit-learn
+  * Gym
+  * Stable-baselines 3
 * C++
   * Eigen
   * Gtsam
