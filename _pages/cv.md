@@ -56,10 +56,11 @@ Research & Project
 
 Reinforcement Learning Control of Amphibious Quadruped Robot
 -----
-  * Intern, I4FSI Lab. April 2023 – Present
-  * Designed and 3D-printed the swimming structure of a Amphibious quadruped robot based on Stanford Pupper.
-  * Utilized Raspberry Pi to control the robot to stand, hop, trot and swim through inverse kinematics.
-  * Improved the control strategy with the deep RL algorithm based on Twin Delayed DDPG(TD3).
+  * Intern, I4FSI Lab, Westlake University April 2023 – Aug 2023
+  * Designed and 3D-printed the swimming modules of an amphibious quadruped robot with 12 degrees of freedom, 4 flippers and a buoyancy module.
+  * Established raspberry Pi 4B python environment with socket connection with PC, servos control interface on the GPIO and IMU interface on the I2C.
+  * Utilized the deep reinforcement learning model, Proximal Policy Optimization(PPO) with extra tricks, to improve performance.
+  * Established a customized RL environment based on Gym.Env with socket connection to the Robot.
 
 Lidar and Visual SLAM Loosely-Coupled Fusion
 -----
