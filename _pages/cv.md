@@ -69,6 +69,14 @@ Lidar and Visual SLAM Loosely-Coupled Fusion
   * Convert the 3D points cloud into rotation and translation matrix by LITAMIN2 LiDAR SLAM.
   * Loosely coupled visual and LiDAR SLAM by checking bad data and replacing it with good data.
 
+
+Predicting Music Popularity Based on Extracted Instrumental Features
+-----
+  * Machine Learning Course Project Jan 2023 - April 2023
+  * Classified Spotify songs’ popularity from pre-extracted features by machine learning algorithms, such as logistic regression, SVM, XGboosting, random forest and fully connected neural network.
+  * Searched and downloaded 45000+ songs on the Google Cloud by multithreaded Python scripts and extracted Mel-spectrograms by librosa to manually extract features and establish the dataset.
+  * Utilized the Transformer on Tensorflow with 500000+ parameters and ResNet CNN to classify the popularity with the extracted Mel-spectrograms but found the low correlation with spectrograms.
+
 Network Proxy Server Management System
 ------	
   * Individual Project	

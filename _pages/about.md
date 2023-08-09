@@ -16,11 +16,12 @@ Bachelor in Control Engineering
 
 Master in Data Science and Machine Learning
 
-Tried many fields of knowledge before.
+Seeking for Master reseach opportunities in Robotics or AI for this Fall.
 
-Now I determine to focus on AI and Robotic.
+Applying for Ph.D in Robotics-learning and Bio-robotics in 2024Fall.
 
-Seeking for intern / reseach opportunities in Robotics or AI for this summer. 
+Here is my [CV of Robotics](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf).
+
 ------
 
 <!-- Hope one day I can add the Publishments navigator into this website and turly make it a academic personal page.  -->
