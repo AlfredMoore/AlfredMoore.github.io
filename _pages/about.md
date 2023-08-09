@@ -20,6 +20,8 @@ Seeking for Master reseach opportunities in Robotics or AI for this Fall.
 
 Applying for Ph.D in Robotics-learning and Bio-robotics in 2024Fall.
 
+Test
+
 Here is my [CV of Robotics](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf).
 
 ------
