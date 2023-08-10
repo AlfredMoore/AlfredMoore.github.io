@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mo Xu"
-  avatar           : "xmo_profile.jpg"
+  avatar           : "profile_causual.jpg" # "xmo_profile.jpg"
   bio              : "Master of EECS"
   location         : "Ann Arbor, Michigan"
   employer         :
