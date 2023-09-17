@@ -16,7 +16,7 @@ redirect_from:
 Education
 ======
 * Bachelor in Control Engineering, Dalian University of Technology, 2018
-* Master in EECS, University of Michigan, 2024(expected)
+* Master in EECS, University of Michigan, 2023
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
@@ -51,6 +51,13 @@ Reinforcement Learning Control of Amphibious Quadruped Robot
   * Established raspberry Pi 4B python environment with socket connection with PC, servos control interface on the GPIO and IMU interface on the I2C.
   * Implement a deep reinforcement learning model, Proximal Policy Optimization(`PPO-clipped`) on Pytorch with extra tricks, to improve performance.
   * Established a customized RL environment based on `Gym.Env` with socket connection to the Robot.
+
+An Experiment Design of AV Algorithm Bias in Trolley Problems
+-----
+Ethics for AI and Robotics course project
+* Designed an experiment based on 'the Moral Machine' to explore potencial manual bias in AV algorithm
+* Utilized game theory on survey items for reliability
+
 
 Lidar and Visual SLAM Loosely-Coupled Fusion
 -----
