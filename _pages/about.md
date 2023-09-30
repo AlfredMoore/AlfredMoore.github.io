@@ -15,8 +15,7 @@ This is Mo Xu's web!
 * Bachelor in Control Engineering
 * Master in Data Science and Machine Learning
 
-
-### Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.
+### <strike>Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.</strike>
 
 ### Applying for Ph.D in Robot learning of 2024Fall.
 
