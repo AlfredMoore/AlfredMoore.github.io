@@ -21,6 +21,21 @@ Education
 
 Work experience
 ======
+Research Assistant @ University of Michigan	
+-----
+  Fluent robotics lab	Sep 2023 – Present
+  * Detect 3D human skeletal keypoints via YOLOv8.
+  * Track human 3D positions from images and point clouds then match with skeletal keypoints.
+  * Establish a real-time pipeline to predict human future trajectories via transformer.
+
+Reinforcement Learning Control of Amphibious Quadruped Robot
+-----
+  Intern, I4FSI Lab, Westlake University April 2023 – Aug 2023
+  * Designed and 3D-printed the swimming modules of an amphibious quadruped robot with 12 degrees of freedom, 4 flippers and a buoyancy module.
+  * Established raspberry Pi 4B python environment with socket connection with PC, servos control interface on the GPIO and IMU interface on the I2C.
+  * Implement a deep reinforcement learning model, Proximal Policy Optimization(`PPO-clipped`) on Pytorch with extra tricks, to improve performance.
+  * Established a customized RL environment based on `Gym.Env` with socket connection to the Robot.
+
 * Summer 2021: Intern
   * ABB 
   * Duties included: 
@@ -43,14 +58,6 @@ Skills
 
 Research & Project
 ======
-
-Reinforcement Learning Control of Amphibious Quadruped Robot
------
-  Intern, I4FSI Lab, Westlake University April 2023 – Aug 2023
-  * Designed and 3D-printed the swimming modules of an amphibious quadruped robot with 12 degrees of freedom, 4 flippers and a buoyancy module.
-  * Established raspberry Pi 4B python environment with socket connection with PC, servos control interface on the GPIO and IMU interface on the I2C.
-  * Implement a deep reinforcement learning model, Proximal Policy Optimization(`PPO-clipped`) on Pytorch with extra tricks, to improve performance.
-  * Established a customized RL environment based on `Gym.Env` with socket connection to the Robot.
 
 An Experiment Design of AV Algorithm Bias in Trolley Problems
 -----
