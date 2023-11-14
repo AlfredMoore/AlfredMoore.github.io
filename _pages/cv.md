@@ -58,6 +58,12 @@ Skills
 
 Research & Project
 ======
+Kalman Filter vs. Particle Filter in Pybullet
+-----
+Algorithmic Robotics Course Project	Aug 2023 - Nov 2023
+* Implemented motion planning and perception algorithms: A*, RRT, PCA, RANSAC and ICP.
+* Compare the performance of Kalman Filter and Particle Filter with PR2 robot simulation in Pybullet.
+
 
 An Experiment Design of AV Algorithm Bias in Trolley Problems
 -----

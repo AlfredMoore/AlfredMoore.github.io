@@ -21,7 +21,11 @@ This is Mo Xu's web!
 
 ### This is my [CV of Robotics](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf).
 
-------
+Current Project
+=====
+Real-time Scene Understanding system for Social Navigation
+
+
 
 <!-- Hope one day I can add the Publishments navigator into this website and turly make it a academic personal page.  -->
 
