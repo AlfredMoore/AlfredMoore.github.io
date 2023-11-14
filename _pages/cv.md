@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV_Robotics here](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf)
+[Robotics CV_onepage](https://drive.google.com/file/d/1ONlJwBsqv8iSj0Qnc3Oelt0Yzq058z3g/view?usp=sharing)
 
 [Download CV_DataScience here](http://alfredmoore.github.io/files/CV_MoXu_ds.pdf)
 

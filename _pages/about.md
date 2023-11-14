@@ -19,7 +19,7 @@ This is Mo Xu's web!
 
 ### Applying for Ph.D in Robot learning of 2024Fall.
 
-### This is my [CV of Robotics](http://alfredmoore.github.io/files/CV_MoXu_rob.pdf).
+### This is my [CV of Robotics](https://drive.google.com/file/d/1ONlJwBsqv8iSj0Qnc3Oelt0Yzq058z3g/view?usp=sharing).
 
 Current Project
 =====
