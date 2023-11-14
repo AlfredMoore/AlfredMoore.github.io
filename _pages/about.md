@@ -23,7 +23,7 @@ This is Mo Xu's web!
 
 Current Project
 =====
-Real-time Scene Understanding system for Social Navigation
+Real-time Scene Understanding System for Social Navigation
 
 
 
