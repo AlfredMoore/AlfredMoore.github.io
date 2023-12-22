@@ -9,25 +9,81 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-This is Mo Xu's web!
------
 
-* Bachelor in Control Engineering
-* Master in Data Science and Machine Learning
+<!-- ### <strike>Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.</strike> -->
 
-### <strike>Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.</strike>
-
-### Applying for Ph.D in Robot learning of 2024Fall.
-
-### This is my [CV of Robotics](https://drive.google.com/file/d/1ONlJwBsqv8iSj0Qnc3Oelt0Yzq058z3g/view?usp=sharing).
-
-Current Project
+<br>News
 =====
-Real-time Scene Understanding System for Social Navigation
+ * I am Applying for **Ph.D in Robotics** in 2024Fall cycle.
+ * This is my [**Resume of Robotics**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
 
+<br>Research Interest
+=====
+Human-Robot Interaction
+-----
+ * Social Navigation
+ * Human Behavior
+ * Affective Computing
+ * Assistant Robot
 
+Tools
+-----
+ * Human Pose Estimation
+ * Multimodality
+ * Scene Understanding
+ * Model Predictive Control and Reinforcement Learning
 
-<!-- Hope one day I can add the Publishments navigator into this website and turly make it a academic personal page.  -->
+<!-- [the real relative root of any fork](/../../) -->
+
+<br>Research
+=====
+
+Visual-based Social Navigation System with RGB-D
+-----
+ * Pedestrian Skeletons demo
+ * Pedestrian Motion Prediction demo
+ * MPC motion planning
+ 
+ <img src="../images/SocialNav_2.jpg" alt="SocialNav_2" width="200"/>
+
+RL-based Amphibious Quadruped Robot
+-----
+ * Amphibious Module demo
+ * Empirical Physical Model
+ * PPO-clipped Control
+
+ <img src="../images/Pupper_1.jpg" alt="Pupper_1" width="200"/>
+
+<br>Selected Projects
+=====
+
+Kalman Filter vs. Particle Filter in Pybullet
+-----
+ * PR2 in Pybullet
+ * Kalman Filter and Particle Filter estimation
+
+ <img src="../images/kfvspf_without_sample_noise.JPG" alt="KFvsPF_1" width="200"/>
+
+Visual and LiDAR SLAM Fusion
+-----
+ * ROS simulation
+ * SLAM Fusion of ORB-SLAM3 and Litamin2
+
+ <img src="../images/EECS568.png" alt="EECS568" width="200"/>
+
+Transformer Predictor
+-----
+ * Convert 45000+ songs into Mel-Spectrums
+ * Predict music popularity by Transformer and ResNet
+
+ <img src="../images/mel-spectrogram.png" alt="EECS545" width="200"/>
+
+Two-width Superscalar R10K CPU Architecture
+-----
+ * RISC-V and systemverilog
+ * 2-width superscalar, branch prediction, victim data cache and software debugger
+
+ <img src="../images/EECS470.png" alt="EECS470" width="200"/>
 
 <!-- A data-driven personal website
 ======
