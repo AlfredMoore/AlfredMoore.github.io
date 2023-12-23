@@ -31,6 +31,13 @@ Industry
  * [Resume in Chinese 中文简历](/files/简历_徐墨_机器人.pdf)
  * 意向岗位：自动驾驶，机器人，预测算法工程师，感知算法工程师
 
+ <embed src="/files/简历_徐墨_机器人.pdf" width="500" height="375" 
+ type="application/pdf">
+
+
+  <embed src="https://drive.google.com/file/d/11ziHW7ZIa0P73cxsr56i6U1I-sNIxPyJ/view?usp=sharing" width="500" height="375" 
+ type="application/pdf">
+
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- 
 Work experience
