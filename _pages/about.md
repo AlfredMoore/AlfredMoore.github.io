@@ -12,16 +12,16 @@ redirect_from:
 
 <!-- ### <strike>Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.</strike> -->
 
-<br>News
+<br>_News_
 =====
  * I am Applying for **Ph.D in Robotics** in 2024Fall cycle.
- * This is my [**Resume of Robotics**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
+ * This is my [**CV for Robotics PhD Application**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
 
-<br>Research Interest
+<br>_Research Interest_
 =====
 
 Human-Robot Interaction
------
+----
  * Social Navigation
  * Human Behavior
  * Affective Computing
@@ -36,7 +36,7 @@ Tools
 
 <!-- [the real relative root of any fork](/../../) -->
 
-<br>Research
+<br>_Research_
 =====
 
 Real-time Visual-based Social Navigation System with RGB-D
@@ -57,7 +57,7 @@ Westlake University, I4FSI lab, Prof. Dixia Fan
 
  <img src="../images/Pupper_1.jpg" alt="Pupper_1" width="200"/>
 
-<br>Selected Projects
+<br>_Selected Projects_
 =====
 
 Kalman Filter vs. Particle Filter in Pybullet
@@ -134,4 +134,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-+Lorem ipsum.
+<br>+Lorem ipsum.

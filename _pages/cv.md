@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<br>Education
+<br>_Education_
 ======
 * Bachelor in Control Engineering, Dalian University of Technology, 2018
 * Master in EECS, University of Michigan, 2023
 
-<br>CV & Resume
+<br>_CV & Resume_
 =====
 
 PhD Application
