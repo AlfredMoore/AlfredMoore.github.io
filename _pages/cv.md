@@ -9,16 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-[Robotics CV_onepage](https://drive.google.com/file/d/1ONlJwBsqv8iSj0Qnc3Oelt0Yzq058z3g/view?usp=sharing)
-
-[Download CV_DataScience here](http://alfredmoore.github.io/files/CV_MoXu_ds.pdf)
-
-Education
+<br>Education
 ======
 * Bachelor in Control Engineering, Dalian University of Technology, 2018
 * Master in EECS, University of Michigan, 2023
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
+<br>CV & Resume
+=====
+
+PhD Application
+-----
+ * [CV for Robotics](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link)
+ * Applying 2024 Fall PhD in Robotics (CSE, ECE, ME)
+ * Research interest: Human-robot Interaction, Perception
+
+Internship
+-----
+ * [Resume for Robotics](https://drive.google.com/file/d/11ziHW7ZIa0P73cxsr56i6U1I-sNIxPyJ/view?usp=sharing)
+ * Job interst: Auto-driving, Perception, Prediction
+
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- 
 Work experience
 ======
 Research Assistant @ University of Michigan	
@@ -41,7 +52,7 @@ Reinforcement Learning Control of Amphibious Quadruped Robot
   * Duties included: 
     * Involved in the electrical high voltage power system design of robots.
     * Control the high voltage power, achieving stable performance.
-    * Established a database to record electrical components.
+    * Established a database to record electrical components. -->
   <!-- * Supervisor: Professor Git -->
 
 <!-- * Fall 2015: Research Assistant
@@ -49,7 +60,7 @@ Reinforcement Learning Control of Amphibious Quadruped Robot
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Python: Numpy, Pytorch, tensorflow, matlibplot, Gym, Stable-baselines3, scikit-learn
 * C++: Eigen, cere, Gtsam, openCV, ORB-SLAM3
@@ -128,7 +139,7 @@ Circuit Design by Verilog Programming of Fpga
 ------
   * Course Project
   *	Utilized  Quartus II and Verilog to design a multifunctional electronic clock on the DE2 circuit board
-  *	The clock was given the functions of time display, hourly chime, time calibration, alarm, etc.
+  *	The clock was given the functions of time display, hourly chime, time calibration, alarm, etc. -->
 
 
 <!-- Publications

@@ -19,6 +19,7 @@ redirect_from:
 
 <br>Research Interest
 =====
+
 Human-Robot Interaction
 -----
  * Social Navigation
@@ -38,8 +39,9 @@ Tools
 <br>Research
 =====
 
-Visual-based Social Navigation System with RGB-D
+Real-time Visual-based Social Navigation System with RGB-D
 -----
+University of Michigan, the fluent robotics lab, Prof. Christoforos Mavrogiannis
  * Pedestrian Skeletons demo
  * Pedestrian Motion Prediction demo
  * MPC motion planning
@@ -48,6 +50,7 @@ Visual-based Social Navigation System with RGB-D
 
 RL-based Amphibious Quadruped Robot
 -----
+Westlake University, I4FSI lab, Prof. Dixia Fan
  * Amphibious Module demo
  * Empirical Physical Model
  * PPO-clipped Control
@@ -84,6 +87,14 @@ Two-width Superscalar R10K CPU Architecture
  * 2-width superscalar, branch prediction, victim data cache and software debugger
 
  <img src="../images/EECS470.png" alt="EECS470" width="200"/>
+
+Network Proxy Server
+-----
+ * Proxy server
+ * IP address disguise
+
+ <img src="../images/Proxy.png" alt="Proxy" width="200"/>
+
 
 <!-- A data-driven personal website
 ======
