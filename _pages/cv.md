@@ -23,10 +23,15 @@ PhD Application
  * Applying 2024 Fall PhD in Robotics (CSE, ECE, ME)
  * Research interest: Human-robot Interaction, Perception
 
-Internship
+Industry
 -----
  * [Resume for Robotics](https://drive.google.com/file/d/11ziHW7ZIa0P73cxsr56i6U1I-sNIxPyJ/view?usp=sharing)
- * Job interst: Auto-driving, Perception, Prediction
+ * Job interst: Auto-driving, Perception, Prediction 
+  
+  <br>
+
+ * [Resume in Chinese 中文简历](https://drive.google.com/file/d/1G7QtWBqhdhUoaLbCmGDdnPbfErbNcThe/view?usp=sharing)
+ * 意向岗位：自动驾驶，机器人，预测算法工程师，感知算法工程师
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- 
