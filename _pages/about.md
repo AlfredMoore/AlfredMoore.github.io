@@ -46,7 +46,7 @@ University of Michigan, the fluent robotics lab, Prof. Christoforos Mavrogiannis
  * Pedestrian Motion Prediction demo
  * MPC motion planning
  
- <img src="../images/SocialNav_2.jpg" alt="SocialNav_2" width="200"/>
+ <img src="../images/SocialNav.jpg" alt="SocialNav_2" width="200"/>
 
 RL-based Amphibious Quadruped Robot
 -----
