@@ -11,8 +11,8 @@ redirect_from:
 
 <br>_Education_
 ======
-* Bachelor in Control Engineering, Dalian University of Technology, 2018
-* Master in EECS, University of Michigan, 2023
+* Bachelor in Control Engineering, Dalian University of Technology, 2018-2022
+* Master in EECS, University of Michigan, 2022-2023
 
 <br>_CV & Resume_
 =====
