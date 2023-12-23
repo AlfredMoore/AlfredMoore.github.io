@@ -30,7 +30,7 @@ Industry
   
   <br>
 
- * [Resume in Chinese 中文简历](https://drive.google.com/file/d/1G7QtWBqhdhUoaLbCmGDdnPbfErbNcThe/view?usp=sharing)
+ * [Resume in Chinese 中文简历](/files/简历_徐墨_机器人.pdf)
  * 意向岗位：自动驾驶，机器人，预测算法工程师，感知算法工程师
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
