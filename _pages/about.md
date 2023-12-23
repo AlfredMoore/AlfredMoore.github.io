@@ -14,7 +14,7 @@ redirect_from:
 
 <br>_News_
 =====
- * I am Applying for **Ph.D in Robotics** in 2024Fall cycle.
+ * I am Applying for **Ph.D in Robotics** in 2024 Fall cycle.
  * This is my [**CV for Robotics PhD Application**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
 
 <br>_Research Interest_
