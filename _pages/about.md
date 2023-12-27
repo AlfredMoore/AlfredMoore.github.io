@@ -12,10 +12,10 @@ redirect_from:
 
 <!-- ### <strike>Seeking for Master reseach opportunities in Robotics or ML and employment of robotics software engineer.</strike> -->
 
-<br>_News_
+<!-- <br>_News_
 =====
- * I am Applying for **Ph.D in Robotics** in 2024 Fall cycle.
- * This is my [**CV for Robotics PhD Application**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
+ * I am Applying for **Ph.D in Robotics** in 2024 Fall cycle. -->
+## This is my [**CV for Robotics**](https://drive.google.com/file/d/187jNDVVRidrcKqUyK433nUZFit_KzDtP/view?usp=drive_link).
 
 <br>_Research Interest_
 =====
